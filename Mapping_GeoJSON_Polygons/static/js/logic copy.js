@@ -33,7 +33,7 @@ L.control.layers(baseMaps).addTo(map);
 
 
 // Accessing the airport GeoJSON URL
-let torontoHoods = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
+let torontoHoods = "https://raw.githubusercontent.com/WeirdFishez/Mapping_Earthquakes/main/torontoNeighborhoods.json"
 
 // Grabbing our GeoJSON data.
 d3.json(torontoHoods).then(function (data) {
