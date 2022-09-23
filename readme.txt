@@ -1,5 +1,4 @@
-# Mapping Earthquakes with JS & APIs
-
+# Map
 
 This project covered the following technical skills: 
  - Create a branch from the main branch on GitHub.
