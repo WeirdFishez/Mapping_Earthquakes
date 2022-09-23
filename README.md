@@ -10,3 +10,8 @@
  - Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.
  - Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
  - Render maps on a local server.
+
+
+
+
+![image](https://user-images.githubusercontent.com/107438816/191908114-50389ffb-285e-49e9-9f29-be4226e76707.png)
